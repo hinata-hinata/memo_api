@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>memo_api</artifactId>
+    <artifactId>memo-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>memo_api</name>
-    <description>memo_api</description>
+    <name>memo-api</name>
+    <description>memo-api</description>
     <url/>
     <licenses>
         <license/>
@@ -97,6 +97,7 @@
             <version>0.12.3</version>
             <scope>runtime</scope>
         </dependency>
+
     </dependencies>
 
     <build>
